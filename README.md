@@ -66,6 +66,7 @@ Ich habe mich entschieden, dass ich das Projekt allein mache, da ich das lange n
 
 
 #  Realisieren
+Das Projekt befindet sich auf meinem GitHub-Konto unter "AfterEffectsEdit"
 
 #  Kontrollieren
 ## Testumgebung
