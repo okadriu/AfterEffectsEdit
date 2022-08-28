@@ -29,7 +29,8 @@ Ich habe mich für das Projekt "Ein Video mit After Effects 2022" bearbeiten ent
 <div align="center">
 
 
-https://user-images.githubusercontent.com/69577043/187084742-1c996ae5-ab3c-42a5-9443-745d2c3b1856.mp4
+
+https://user-images.githubusercontent.com/69577043/187084876-a2cf51e0-74ac-4602-8f03-e248f68c0a82.mp4
 
 
 </div>
