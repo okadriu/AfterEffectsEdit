@@ -27,9 +27,11 @@
 Ich habe mich für das Projekt "Ein Video mit After Effects 2022" bearbeiten entschieden, da ich zuvor noch nie ein Video mit so einer professionellen Software für Filmeffekte gearbeitet habe. Ich war sehr neugierig zu wissen, wie das geht und wie lange sowas braucht.
 
 <div align="center">
-<a href="https://youtu.be/XsY9ijJXigU">
-    <img src="Doctor Strange.jpg" alt="Logo">
-  </a>
+
+
+https://user-images.githubusercontent.com/69577043/187084742-1c996ae5-ab3c-42a5-9443-745d2c3b1856.mp4
+
+
 </div>
 
 ## Quellen
